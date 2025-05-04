@@ -7,7 +7,7 @@
 
 body {
   font-family: Arial;
-  background: #f1f1f1;
+  background-color: #FFFFFF;
 }
 
 /* Header/Blog Title */
@@ -61,7 +61,7 @@ body {
 }
 /* Add a card effect for articles */
 .card {
-  background-color: white;
+  background-color: #DFDEDE;
   padding: 20px;
   margin-top: 20px;
 }
@@ -174,3 +174,40 @@ h2 {
       font-weight: bold;
 		align-content: center;
     }
+
+
+
+
+
+/* socials */
+.fa-youtube {
+  background: black;
+  color: white;
+	text-align: center;
+}
+
+.fa-instagram {
+  background: black;
+  color: white;
+	text-align: center;
+}
+
+.fa {
+  padding: 20px;
+  font-size: 50px;
+  width: 70px;
+  text-align: center;
+  text-decoration: none;
+  margin: 5px 10px;
+  border-radius: 50%;
+	align-content: center;
+}
+
+.fa:hover {
+    opacity: 0.7;
+}
+.luckiest-guy-regular {
+  font-family: "Luckiest Guy", serif;
+  font-weight: 400;
+  font-style: normal;
+}
